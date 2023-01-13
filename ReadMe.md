@@ -39,7 +39,7 @@ Hi,<br>I'm Stefan Lacher.<br><br>I'm a Data Engineer, Data Analyst, Data Scienti
 
 
 
-## Synthetic Household Sensor Data Dashboard
-[Github Repository](https://github.com/Stefan-Lacher/synthetic-household-sensor-data-dashboard)
+## Synthetic Household Sensor Data
+[Github Repository](https://github.com/Stefan-Lacher/synthetic-household-sensor-data)
 
 
